@@ -29,33 +29,3 @@ function objFrase(){
 }
 
 console.log(objFrase())
-
-
-
-// 3) Crie uma função que receba um objeto como o abaixo:
-
-// const pessoa = {
-//   nome: 'Nazaré',
-//   sobrenome: 'Tedesco',
-// }
-
-// Dado um objeto que tem uma propriedade 'nome' e uma propriedade 'sobrenome', a função deve retornar um novo objeto com as mesmas propriedades 
-//que o objeto recebido e mais uma propriedade, chamada 'nomeCompleto', cujo valor é uma string com o nome e sobrenome separados por um espaço.
-
-// Exemplo de retorno:
-// {
-//   nome: 'Nazaré',
-//   sobrenome: 'Tedesco',
-//   nomeCompleto: 'Nazaré Tedesco'
-// }
-
-function ObjPersona(nome, sobrenome, nomecompleto)
-
-const pessoa = {
-      nome: 'Nazaré',
-      sobrenome: 'Tedesco',
-      nomeCompleto: 'Nazaré Tedesco'
- }
-    return
-
-    console.log(ObjPersona()
